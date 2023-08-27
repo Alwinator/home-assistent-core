@@ -5347,6 +5347,12 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "spotifyconnector": {
+      "name": "spotify-connector",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "sql": {
       "name": "SQL",
       "integration_type": "hub",

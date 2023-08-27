@@ -439,6 +439,7 @@ FLOWS = {
         "speedtestdotnet",
         "spider",
         "spotify",
+        "spotifyconnector",
         "sql",
         "squeezebox",
         "srp_energy",
